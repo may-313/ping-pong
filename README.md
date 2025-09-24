@@ -1,5 +1,7 @@
 🏓 Ping Pong Game
+
 ![alt text](photo_2025-09-24_15-57-00.jpg)
+
 🇬🇧 English Version
 
 🎮 Description:
